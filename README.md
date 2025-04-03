@@ -1,1 +1,1 @@
-# Creating a Github Codespace using Debian bookworm-slim
+# Debian bookworm-slim
